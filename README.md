@@ -11,3 +11,5 @@ This project is my first pybullet simulation.
  - "t" : Upper body to right
  - "o" : Upper body to front
  - "d" : Upper body to back
+ 
+Main window: kukaBullet.py 
